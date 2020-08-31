@@ -1,3 +1,5 @@
+> DO NOT DELETE OR EDIT THIS PAGE ANY LONGER.  Repository has been moved [here](https://github.com/Sage-Bionetworks/synapsegenie)
+
 # Synapse Genie
 
 [![Docker Automated](https://img.shields.io/docker/automated/sagebionetworks/genie.svg)](https://hub.docker.com/r/sagebionetworks/genie) ![Docker Build](https://img.shields.io/docker/build/sagebionetworks/genie.svg)
